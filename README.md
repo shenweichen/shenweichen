@@ -1,16 +1,29 @@
-### Hi there 👋
+<div align="center">
+  <p>
+    <a href="https://github.com/shenweichen/">
+      <img src="https://github-readme-stats.vercel.app/api?username=shenweichen&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues" />
+    </a>
+  </p>
 
-<!--
-**shenweichen/shenweichen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://github.com/shenweichen/DeepCTR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shenweichen&repo=deepctr&cache_seconds=18000&theme=radical
+" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/shenweichen/GraphEmbedding">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shenweichen&repo=graphembedding&cache_seconds=18000&theme=radical
+" />
+</a>
+
+<a href="https://github.com/shenweichen/DeepMatch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shenweichen&repo=deepmatch&cache_seconds=18000&theme=radical
+" />
+</a>
+ 
+<a href="https://github.com/shenweichen/DeepCTR-Torch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shenweichen&repo=deepctr-torch&cache_seconds=18000&theme=radical
+" />
+</a>
+
+</div>
