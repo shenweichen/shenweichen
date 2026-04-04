@@ -35,7 +35,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=deepctr&cache_seconds=18000&theme=default_repocard
+          options: repo=deepctr&cache_seconds=18000&theme=default_repocard
           path: profile/deepctr_pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -43,7 +43,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=deepmatch&cache_seconds=18000&theme=default_repocard
+          options: repo=deepmatch&cache_seconds=18000&theme=default_repocard
           path: profile/deepmatch_pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -51,7 +51,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=deepctr-torch&cache_seconds=18000&theme=default_repocard
+          options: repo=deepctr-torch&cache_seconds=18000&theme=default_repocard
           path: profile/deepctr-torch_pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -59,7 +59,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=graphembedding&cache_seconds=18000&theme=default_repocard
+          options: repo=graphembedding&cache_seconds=18000&theme=default_repocard
           path: profile/graphembedding_pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
