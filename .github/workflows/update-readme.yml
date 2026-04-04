@@ -19,7 +19,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=default&hide=contribs,issues
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -31,12 +31,36 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card
+      - name: Generate pin card deepctr
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: username=readme-tools&repo=github-readme-stats
-          path: profile/pin-readme-tools-github-readme-stats.svg
+          options: username=readme-tools&repo=deepctr&cache_seconds=18000&theme=default_repocard
+          path: profile/deepctr_pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card deepmatch
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=deepmatch&cache_seconds=18000&theme=default_repocard
+          path: profile/deepmatch_pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card deepctr-torch
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=deepctr-torch&cache_seconds=18000&theme=default_repocard
+          path: profile/deepctr-torch_pin.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card graphembedding
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: username=readme-tools&repo=graphembedding&cache_seconds=18000&theme=default_repocard
+          path: profile/graphembedding_pin.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
