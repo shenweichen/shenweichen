@@ -3,7 +3,7 @@
 
   <a href="https://github.com/shenweichen">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shenweichen&show_icons=true&theme=default&hide=contribs,issues" />
+  <img src="profile/stats.svg" />
 
   </a>
   
@@ -11,19 +11,19 @@
 
 
 <a href="https://github.com/shenweichen/DeepCTR">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shenweichen&repo=deepctr&cache_seconds=18000&theme=default_repocard" />
+  <img align="center" src="profile/deepctr_pin.svg" />
 </a>
 
 <a href="https://github.com/shenweichen/DeepCTR-Torch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shenweichen&repo=deepctr-torch&cache_seconds=18000&theme=default_repocard" />
+  <img align="center" src="profile/deepctr-torch_pin.svg" />
 </a>
 
 <a href="https://github.com/shenweichen/DeepMatch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shenweichen&repo=deepmatch&cache_seconds=18000&theme=default_repocard" />
+  <img align="center" src="profile/deepmatch_pin.svg" />
 </a>
 
 <a href="https://github.com/shenweichen/GraphEmbedding">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shenweichen&repo=graphembedding&cache_seconds=18000&theme=default_repocard" />
+  <img align="center" src="profile/graphembedding_pin.svg" />
 </a>
  
 </div>
