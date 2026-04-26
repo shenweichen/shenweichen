@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">&#27973;&#26790;'s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 22718, Total PRs: 148, Merged PRs Percentage: 93.24</desc>
+        <desc id="descId">Total Stars Earned: 22723, Total PRs: 148, Merged PRs Percentage: 93.92</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 89.16500281993058;
+        stroke-dashoffset: 89.0524517547507;
       }
     }
   
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >93.24 %</text>
+      >93.92 %</text>
     </g>
   </g>
     </svg>
