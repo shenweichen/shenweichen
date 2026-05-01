@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">&#27973;&#26790;'s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 22726, Total PRs: 150, Merged PRs Percentage: 93.33</desc>
+        <title id="titleId">weichen's GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 22729, Total PRs: 150, Merged PRs Percentage: 93.33</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.71938824483358;
+        stroke-dashoffset: 88.71936402351649;
       }
     }
   
@@ -126,7 +126,7 @@
         y="0"
         class="header"
         data-testid="header"
-      >&#27973;&#26790;'s GitHub Stats</text>
+      >weichen's GitHub Stats</text>
     </g>
       </g>
     
