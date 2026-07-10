@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">weichen's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 22800, Total PRs: 152, Merged PRs Percentage: 92.11</desc>
+        <desc id="descId">Total Stars Earned: 22801, Total PRs: 153, Merged PRs Percentage: 92.81</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 88.28038548116183;
+        stroke-dashoffset: 87.95300888366745;
       }
     }
   
@@ -177,7 +177,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >152</text>
+      >153</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -192,7 +192,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >92.11 %</text>
+      >92.81 %</text>
     </g>
   </g>
     </svg>
