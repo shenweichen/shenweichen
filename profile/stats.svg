@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">weichen's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 22801, Total PRs: 153, Merged PRs Percentage: 92.81</desc>
+        <desc id="descId">Total Stars Earned: 22803, Total PRs: 153, Merged PRs Percentage: 92.81</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 87.95300888366745;
+        stroke-dashoffset: 87.95299284123661;
       }
     }
   
