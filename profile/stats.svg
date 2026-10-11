@@ -1,15 +1,15 @@
-
-    <svg width="576.5"  height="120" viewBox="0 0 576.5 120" fill="#fffefe" xmlns="http://www.w3.org/2000/svg">
-    <style>
-    .text { font: 600 16px 'Segoe UI', Ubuntu, Sans-Serif; fill: #2f80ed }
-    .small { font: 600 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #434d58 }
-    .gray { fill: #858585 }
-    </style>
-    <rect x="0.5" y="0.5" width="575.5" height="99%" rx="4.5" fill="#fffefe" stroke="#e4e2e2"/>
-    <text x="25" y="45" class="text">Something went wrong! file an issue at https://tiny.one/readme-stats</text>
-    <text data-testid="message" x="25" y="55" class="text small">
-      <tspan x="25" dy="18">Resource not accessible by personal access token</tspan>
-      <tspan x="25" dy="18" class="gray">OK</tspan>
-    </text>
-    </svg>
-  
+<svg xmlns="http://www.w3.org/2000/svg" width="450" height="165" viewBox="0 0 450 165" role="img" aria-labelledby="title">
+<title id="title">shenweichen public GitHub statistics</title>
+<g font-family="Segoe UI, Ubuntu, sans-serif">
+<rect x="0.5" y="0.5" width="449" height="164" rx="4.5" fill="#fffefe" stroke="#e4e2e2"/>
+<text x="25" y="35" fill="#2f80ed" font-size="18" font-weight="600">shenweichen&#x27;s GitHub Stats</text>
+<text x="25" y="65" fill="#434d58" font-size="13" font-weight="400">Stars (featured projects)</text>
+<text x="320" y="65" fill="#434d58" font-size="13" font-weight="400">17,795</text>
+<text x="25" y="90" fill="#434d58" font-size="13" font-weight="400">Public pull requests</text>
+<text x="320" y="90" fill="#434d58" font-size="13" font-weight="400">153</text>
+<text x="25" y="115" fill="#434d58" font-size="13" font-weight="400">Merged pull requests</text>
+<text x="320" y="115" fill="#434d58" font-size="13" font-weight="400">142</text>
+<text x="25" y="140" fill="#434d58" font-size="13" font-weight="400">Pull requests merged</text>
+<text x="320" y="140" fill="#434d58" font-size="13" font-weight="400">92.8%</text>
+</g>
+</svg>
